@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">FeedMe</string>
+    <string name="app_name">Feed.Me</string>
+    <string name="app_name_padded">&#160;Feed.Me</string>
 </resources>
